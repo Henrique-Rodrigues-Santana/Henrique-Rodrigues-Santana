@@ -14,9 +14,10 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [#](#)
 
-- 📝 Escrevo regularmente artigos sobre Programação [#](#)
-
 - 📫 Mais informações para contato **#**
+
+- 📝 Ultimos livros lidos [#](#)
+  - Lógica de Programação Crie seus primeiros programas usando Javascript e HTML <a href="https://github.com/Henrique-Rodrigues-Santana/Exercicios-Livro-Logica-de-Programacao">Link</a>
 
 <h3 align="left">Contatos e Redes Sociais:</h3>
 <p align="left">
