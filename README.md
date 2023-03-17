@@ -12,12 +12,12 @@
 
 - 🤝 Desenvolvimento de Aplicativos Baseados em Smart Contract/Solidity [Urna Eletrônica Eleitoral](#)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [#](#)
-
-- 📫 Mais informações para contato **#**
+- 👨‍💻 Projetos  [#](#)
 
 - 📝 Ultimos livros lidos [#](#)
   - Lógica de Programação Crie seus primeiros programas usando Javascript e HTML <a href="https://github.com/Henrique-Rodrigues-Santana/Exercicios-Livro-Logica-de-Programacao">Link</a>
+  
+- 📫 Mais informações para contato **#**  
 
 <h3 align="left">Contatos e Redes Sociais:</h3>
 <p align="left">
