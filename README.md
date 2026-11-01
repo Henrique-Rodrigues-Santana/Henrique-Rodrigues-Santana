@@ -1,87 +1,104 @@
-# Olá, eu sou Henrique Rodrigues Santana 👋
+<div align="center">
 
-## Desenvolvedor Full-Stack | Web & Soluções Seguras
+<!-- GLITCH TITLE -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Henrique+Rodrigues+Santana;Full-Stack+Developer;Web+%2B+Security+%2B+Data;Build+Fast.+Ship+Safe." alt="Typing SVG" />
+</h1>
 
-Sou desenvolvedor focado em construir aplicações web completas — do front-end ao back-end, passando por infraestrutura e boas práticas de segurança. Gosto de resolver problemas reais com tecnologia, unindo código limpo, dados bem modelados e ambientes confiáveis.
+<!-- STATUS BAR -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF00AA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-WEB_%2B_SECURITY-9D00FF?style=for-the-badge&logo=shield&logoColor=white" />
 
-Atualmente desenvolvo soluções voltadas para **gestão de redes sociais, atendimento e vendas**, além de sites e aplicações web diversas.
+<br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Infraestrutura & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Segurança & Ferramentas
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### IDE / Ambiente
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque
 
-> Os projetos abaixo estão em desenvolvimento. Em breve, cada um terá sua própria documentação, demo e detalhes técnicos.
+$ whoami
+> henrique.rodrigues.santana
 
-### 1. 📊 [Nome do Projeto 1]
-**Descrição:** [Em breve — solução para gestão de redes sociais com foco em atendimento e vendas]
-**Stack:** Python · PostgreSQL · JavaScript · Docker
-**Status:** 🚧 Em planejamento
+$ cat perfil.txt
+> Desenvolvedor Full-Stack focado em aplicações web completas.
+> Do front-end ao back-end, da infraestrutura à segurança.
+> Construo soluções para gestão de redes sociais, atendimento e vendas.
 
-### 2. 🛒 [Nome do Projeto 2]
-**Descrição:** [Em breve — aplicação web para automação de atendimento e funil de vendas]
-**Stack:** Rust · PostgreSQL · JavaScript
-**Status:** 🚧 Em planejamento
+$ echo $PHILOSOPHY
+> "Construir com velocidade. Entregar com segurança."
+<div align="center">
+⚡ TECH ARSENAL
+🧠 Linguagens
+<img src="https://skillicons.dev/icons?i=python,rust,javascript,php" />
+🗄️ Dados
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
+🛠️ Infra & DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions" />
+🔐 Security & Tools
+<img src="https://skillicons.dev/icons?i=kali,bash,vim" />
+💻 IDE
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></div>
+<div align="center">
+🚀 PROJETOS EM ÓRBITA
+⚠️ Sistemas em construção. Documentação e demos em breve.
 
-### 3. 🌐 [Nome do Projeto 3]
-**Descrição:** [Em breve — site/aplicação web com foco em performance e segurança]
-**Stack:** PHP · JavaScript · PostgreSQL · Linux
-**Status:** 🚧 Em planejamento
+</div><table align="center"> <tr> <td width="50%">
+📊 [PROJETO_01]
+// Social Management Suite
 
-### 4. 🔐 [Nome do Projeto 4]
-**Descrição:** [Em breve — ferramenta ou dashboard com ênfase em segurança e análise de dados]
-**Stack:** Python · Rust · Docker · Kali Linux
-**Status:** 🚧 Em planejamento
+Solução para gestão de redes sociais com foco em atendimento e vendas.
 
----
+Stack: Python · PostgreSQL · JavaScript · Docker
+Status: 🟡 Em planejamento
 
-## 📚 Atualmente Aprendendo
+</td> <td width="50%">
+🛒 [PROJETO_02]
+// Sales Automation Engine
 
-- Aprofundando em **Rust** para sistemas de alta performance
-- **Segurança aplicada ao desenvolvimento web** (OWASP, autenticação, hardening)
-- Boas práticas de **CI/CD** e infraestrutura como código
-- Integração de **APIs de redes sociais** (Instagram, X, WhatsApp Business)
+Aplicação web para automação de atendimento e funil de vendas.
 
----
+Stack: Rust · PostgreSQL · JavaScript
+Status: 🟡 Em planejamento
 
-## 📈 Estatísticas do GitHub
+</td> </tr> <tr> <td width="50%">
+🌐 [PROJETO_03]
+// Web Platform
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Henrique-Rodrigues-Santana&show_icons=true&theme=dark&hide_title=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Rodrigues-Santana&layout=compact&theme=dark)
+Site/aplicação web com foco em performance, escalabilidade e segurança.
 
----
+Stack: PHP · JavaScript · PostgreSQL · Linux
+Status: 🟡 Em planejamento
 
-## 📫 Como me encontrar
+</td> <td width="50%">
+🔐 [PROJETO_04]
+// Security Dashboard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-Rodrigues-Santana)
+Ferramenta/dashboard com ênfase em segurança e análise de dados.
 
----
+Stack: Python · Rust · Docker · Kali Linux
+Status: 🟡 Em planejamento
 
-> "Construir com velocidade, entregar com segurança."
+</td> </tr> </table>
+<div align="center">
+📡 APRENDENDO EM TEMPO REAL
+</div>
+yaml
+learning:
+  - Rust          : sistemas de alta performance
+  - Security      : OWASP, auth, hardening, red team mindset
+  - DevOps        : CI/CD, IaC, observabilidade
+  - Integrations  : Instagram Graph API, X API, WhatsApp Business API
+<div align="center">
+📊 GITHUB STATS
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Rodrigues-Santana&show_icons=true&theme=radical&hide_title=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00AA&text_color=FFFFFF&border_color=00F0FF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Rodrigues-Santana&layout=compact&theme=radical&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_color=00F0FF" /></div>
+<div align="center">
+🔗 CONNECT
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:SEU-EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Henrique-Rodrigues-Santana"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF00AA&center=true&vCenter=true&width=600&lines=%3E+Build+Fast.+Ship+Safe.;%3E+Criatividade+com+responsabilidade.;%3E+Code+%2B+Security+%2B+Data." alt="Footer Typing SVG" /></div> ```
