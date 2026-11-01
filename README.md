@@ -16,17 +16,18 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-```bash
+```console
 $ whoami
-henrique.rodrigues.santana  # Full-Stack Developer
+henrique.rodrigues.santana — Full-Stack Developer
 
 $ cat sobre.txt
-Construo aplicações web completas — do front-end ao back-end,
-da modelagem de dados à infraestrutura, com segurança desde o primeiro commit.
-Gosto de resolver problemas reais: operação, atendimento, vendas e educação.
+Construo aplicações web completas, do front-end ao back-end,
+da modelagem de dados à infraestrutura.
+Segurança desde o primeiro commit.
+Resolvo problemas reais: operação, atendimento, vendas e educação.
 
 $ echo $FILOSOFIA
-"Construir com velocidade. Entregar com segurança."
+Construir com velocidade. Entregar com segurança.
 ```
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
