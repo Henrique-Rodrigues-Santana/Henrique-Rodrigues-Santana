@@ -1,25 +1,20 @@
 <div align="center">
 
-<!-- GLITCH TITLE -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Henrique+Rodrigues+Santana;Full-Stack+Developer;Web+%2B+Security+%2B+Data;Build+Fast.+Ship+Safe." alt="Typing SVG" />
 </h1>
 
-<!-- STATUS BAR -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black" />
 <img src="https://img.shields.io/badge/MODE-BUILDING-FF00AA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/FOCUS-WEB_%2B_SECURITY-9D00FF?style=for-the-badge&logo=shield&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
----
-
-
+```
+bash
 $ whoami
 > henrique.rodrigues.santana
 
